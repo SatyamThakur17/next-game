@@ -16,7 +16,7 @@ You cannot win.
 ## 🎮 Play It
 
 🔗 Live Demo:  
-https://YOUR_USERNAME.github.io/next-game/
+[https://satyamthakur17.github.io/next-game/]
 
 (Replace with your actual GitHub Pages link.)
 
