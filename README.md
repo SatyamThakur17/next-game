@@ -16,9 +16,7 @@ You cannot win.
 ## 🎮 Play It
 
 🔗 Live Demo:  
-[https://satyamthakur17.github.io/next-game/]
-
-(Replace with your actual GitHub Pages link.)
+https://satyamthakur17.github.io/next-game/
 
 ---
 
@@ -69,7 +67,3 @@ This version runs entirely in a single HTML file:
 No backend.
 No database.
 No mercy.
-
----
-
-## 📂 Project Structure
